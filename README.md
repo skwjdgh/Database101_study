@@ -40,13 +40,13 @@ SQL 기본 문법부터 시작하여, 점차 복잡한 쿼리 및 데이터 모�
 
 - `250429 챕터4.sql`:  
   SQL 기본 문법 연습 파일입니다.  
-- JOIN 함수
-- 카티션 곱
-- EQUI JOIN
-- NON EQUI JOIN
-- OUTER AND INNER JOIN
-- SELF JOIN
-- 및 연습문제
+  - JOIN 함수
+  - 카티션 곱
+  - EQUI JOIN
+  - NON EQUI JOIN
+  - OUTER AND INNER JOIN
+  - SELF JOIN
+  - 및 연습문제
 
 ---
 
