@@ -31,6 +31,7 @@ SQL 기본 문법부터 시작하여, 점차 복잡한 쿼리 및 데이터 모�
 
 - `250423 챕터3.sql`:  
   SQL 기본 문법 연습 파일입니다.
+  
   -GROUP함수 EX) COUNT, SUM,AVG,MAX,MIN,STDDEV)
   -GROUP BY절
   -ROLLUP, CUBE, GROUPING SETS 등등
