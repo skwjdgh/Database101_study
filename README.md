@@ -1,3 +1,7 @@
+<p align>
+  <img src = "https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=SQL101&descAlign=59&section=header">
+
+
 # Database101_study
 
 이 저장소는 데이터베이스 기초를 학습하기 위한 개인 스터디 공간입니다.  
