@@ -57,5 +57,6 @@ Database101/
 └── SQLD/                  # SQLD 자격증 준비 자료
     └── 기타/
 ```
-
+[CLASS](https://github.com/skwjdgh/Database101_study/tree/CLASS)<br>
+[SQLD](https://github.com/skwjdgh/Database101_study/tree/SQLD)
 ---
