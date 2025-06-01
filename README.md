@@ -54,9 +54,12 @@ Database101/
 ├── README.md              # 저장소 소개 및 요약
 ├── CLASS/                 # 수업 관련 자료
 │   └── 기타/
-└── SQLD/                  # SQLD 자격증 준비 자료
+├── SQLD/                  # SQLD 자격증 준비 자료
+│   └── 기타/
+└── EXAMPLE                # 개인 연습 자료                 
     └── 기타/
 ```
 [CLASS](https://github.com/skwjdgh/Database101_study/tree/CLASS)<br>
-[SQLD](https://github.com/skwjdgh/Database101_study/tree/SQLD)
+[SQLD](https://github.com/skwjdgh/Database101_study/tree/SQLD)<br>
+[EXAMPLE](https://github.com/skwjdgh/Database101_study/tree/EXAMPLE)
 ---
