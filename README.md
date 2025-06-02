@@ -65,4 +65,4 @@ Database101/
 
 ---
 ##  👨‍💻상위REPO로 돌아가기
-[![BACK](https://img.shields.io/badge/MAIN?style=plastic&logo=C&logoColor=white&labelColor=black)](https://github.com/skwjdgh/Back)
+[![BACK](https://img.shields.io/badge/BACK-181717?style=plastic&logo=github&logoColor=white)](https://github.com/skwjdgh/Back)
