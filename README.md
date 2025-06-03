@@ -1,13 +1,16 @@
 
 <h1 align="center">
+  
   <a href="https://github.com/skwjdgh">
     <img align="center" src="https://img.shields.io/badge/goto-Main-green.svg" />
   </a>
 
   <a href="https://github.com/skwjdgh/Back">
-    <img align="center" src="https://img.shields.io/badge/goto-Front-green.svg" />
+    <img align="center" src="https://img.shields.io/badge/goto-Back-green.svg" />
   </a>
+  
 </h1>
+
 <p align="center">
   <img align="center" src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=SQL101&descAlign=59&section=header">
 </p>
