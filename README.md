@@ -1,15 +1,23 @@
+
+<h1 align="center">
+  <a href="https://github.com/skwjdgh">
+    <img align="center" src="https://img.shields.io/badge/goto-Main-green.svg" />
+  </a>
+
+  <a href="https://github.com/skwjdgh/Back">
+    <img align="center" src="https://img.shields.io/badge/goto-Front-green.svg" />
+  </a>
+</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=SQL101&descAlign=59&section=header">
+  <img align="center" src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=SQL101&descAlign=59&section=header">
 </p>
 
-# 📘 Database101_study
+## 🗂 문서 개요
 
 이 저장소는 SQL 학습을 위한 개인 스터디 공간입니다.  
 SQL 기초부터 실습, SQLD 자격증 대비 내용까지 정리되어 있습니다.
 
----
-
-## 🎯 목표
+### ✅ 주요 학습 주제 예시
 
 - 관계형 데이터베이스의 구조와 개념 이해
 - 실습 중심의 SQL 문법 학습
@@ -44,10 +52,9 @@ SQL 기초부터 실습, SQLD 자격증 대비 내용까지 정리되어 있습�
    ```
 
 4. SQL Developer 압축 해제 후 실행
-
 ---
 
-## 📁 디렉토리 구조
+## 📦 문서 구조
 
 ```
 Database101/
@@ -59,10 +66,31 @@ Database101/
 └── EXAMPLE                # 개인 연습 자료                 
     └── 기타/
 ```
-[CLASS](https://github.com/skwjdgh/Database101_study/tree/CLASS)<br>
-[SQLD](https://github.com/skwjdgh/Database101_study/tree/SQLD)<br>
-[EXAMPLE](https://github.com/skwjdgh/Database101_study/tree/EXAMPLE)<br>
+####  🗃️ 하위 브런치로 이동
+
+<h1 align="center">
+  
+  <a href="https://github.com/skwjdgh/Database101_study/tree/CLASS">
+    <img align="center" src="https://img.shields.io/badge/goto-CLASS-yellow.svg" />
+  </a>
+  <a href="https://github.com/skwjdgh/Database101_study/tree/SQLD">
+    <img align="center" src="https://img.shields.io/badge/goto-SQLD-yellow.svg" />
+  </a>
+  <a href="https://github.com/skwjdgh/Database101_study/tree/EXAMPLE">
+    <img align="center" src="https://img.shields.io/badge/goto-SQLD-yellow.svg" />
+  </a>
+  
+</h1>
+<p align="center">
+  <img align="center" src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=SQL101&descAlign=59&section=header">
+</p>
+
 
 ---
-##  👨‍💻상위REPO로 돌아가기
-[![BACK](https://img.shields.io/badge/BACK-181717?style=plastic&logo=github&logoColor=white)](https://github.com/skwjdgh/Back)
+###  👨‍💻상단으로 돌아가기
+<h1 align="center">
+        <a href="https://github.com/skwjdgh/Database101_study">
+    <img align="center" src="https://img.shields.io/badge/backto-Top-green.svg" />
+  </a>
+</h1>
+
