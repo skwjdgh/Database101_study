@@ -77,7 +77,7 @@ Database101/
     <img align="center" src="https://img.shields.io/badge/goto-SQLD-yellow.svg" />
   </a>
   <a href="https://github.com/skwjdgh/Database101_study/tree/EXAMPLE">
-    <img align="center" src="https://img.shields.io/badge/goto-SQLD-yellow.svg" />
+    <img align="center" src="https://img.shields.io/badge/goto-Example-yellow.svg" />
   </a>
   
 </h1>
