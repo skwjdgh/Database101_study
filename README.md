@@ -62,12 +62,9 @@ SQL 기초부터 실습, SQLD 자격증 대비 내용까지 정리되어 있습�
 ```
 Database101/
 ├── README.md              # 저장소 소개 및 요약
-├── CLASS/                 # 수업 관련 자료
-│   └── 기타/
-├── SQLD/                  # SQLD 자격증 준비 자료
-│   └── 기타/
-└── EXAMPLE                # 개인 연습 자료                 
-    └── 기타/
+├── (BRANCH)CLASS/                 # 수업 관련 자료
+├── (BRANCH)SQLD/                  # SQLD 자격증 준비 자료
+└── (BRANCH)EXAMPLE                # 개인 연습 자료                 
 ```
 ####  🗃️ 하위 브런치로 이동
 
